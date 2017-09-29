@@ -1,1 +1,5 @@
 Detta är en testfil
+
+  *   *
+    ||
+  =====
